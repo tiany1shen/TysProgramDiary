@@ -1,0 +1,33 @@
+{
+    "来源 Source":[
+        "力扣 LeetCode"
+    ],
+
+    "基础 Fundamentals":[
+        "模拟 Simulation"
+    ],
+
+    "算法 Algorithms": [
+        "深度优先搜索 DFS", "广度优先搜索 BFS", 
+        "递归 Recursion", "回溯 Backtracking", 
+        "动态规划 DynamicProgramming"
+    ],
+
+    "基础数据结构 Common-Data-Structures": [
+        "哈希表 HashTable", 
+        "树 Tree", "二叉树 BinaryTree", "二叉搜索树 BST", 
+        "图 Graph"
+    ], 
+
+    "高级数据结构 Advanced-Data-Structures": [
+        "并查集 DSU"
+    ], 
+
+    "技巧 Techniques": [
+        "前缀和 PrefixSum"
+    ],
+
+    "数学 Math": [
+        "组合数学 Combinatorics"
+    ]
+}
